@@ -1,0 +1,8 @@
+32.0
+54.0
+67.5
+80.25
+115.0
+Number of entries: 5
+Total:   348.75
+Average of elements:    69.75
